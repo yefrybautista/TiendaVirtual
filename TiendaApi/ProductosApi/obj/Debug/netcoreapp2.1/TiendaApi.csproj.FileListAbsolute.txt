@@ -1,0 +1,6 @@
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\ProductosApi\obj\Debug\netcoreapp2.1\TiendaApi.csprojAssemblyReference.cache
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\ProductosApi\obj\Debug\netcoreapp2.1\TiendaApi.csproj.CoreCompileInputs.cache
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\ProductosApi\obj\Debug\netcoreapp2.1\TiendaApi.RazorAssemblyInfo.cache
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\ProductosApi\obj\Debug\netcoreapp2.1\TiendaApi.RazorAssemblyInfo.cs
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\ProductosApi\obj\Debug\netcoreapp2.1\TiendaApi.AssemblyInfoInputs.cache
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\ProductosApi\obj\Debug\netcoreapp2.1\TiendaApi.AssemblyInfo.cs

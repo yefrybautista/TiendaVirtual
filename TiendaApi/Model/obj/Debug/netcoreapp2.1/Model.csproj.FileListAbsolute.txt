@@ -1,0 +1,17 @@
+C:\Users\wilkin.vasquez\source\repos\ProductosApi\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+C:\Users\wilkin.vasquez\source\repos\ProductosApi\Model\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\wilkin.vasquez\source\repos\ProductosApi\Model\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\wilkin.vasquez\source\repos\ProductosApi\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+C:\Users\wilkin.vasquez\source\repos\ProductosApi\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\wilkin.vasquez\source\repos\ProductosApi\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+C:\Users\wilkin.vasquez\source\repos\ProductosApi\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+C:\Users\wilkin.vasquez\source\repos\ProductosApi\Model\obj\Debug\netcoreapp2.1\Model.dll
+C:\Users\wilkin.vasquez\source\repos\ProductosApi\Model\obj\Debug\netcoreapp2.1\Model.pdb
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\Model\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\Model\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\Model\obj\Debug\netcoreapp2.1\Model.dll
+C:\Users\yefry.bautista\Documents\ApiAplication\ProductosApi\Model\obj\Debug\netcoreapp2.1\Model.pdb
