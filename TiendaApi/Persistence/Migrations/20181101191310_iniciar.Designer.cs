@@ -8,8 +8,8 @@ using Persistence;
 
 namespace Persistence.Migrations
 {
-    [DbContext(typeof(ProductosContext))]
-    [Migration("20180925130448_iniciar")]
+    [DbContext(typeof(TiendaContext))]
+    [Migration("20181101191310_iniciar")]
     partial class iniciar
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

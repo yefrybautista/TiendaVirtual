@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yefry.bautista\\.nuget\\packages\\": {},
+    "C:\\Users\\wilkin.vasquez\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yefry.bautista\\Documents\\ApiAplication\\ProductosApi\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\yefry.bautista\\Documents\\TiendaVirtual\\TiendaApi\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\yefry.bautista\\Documents\\ApiAplication\\ProductosApi\\Model\\Model.csproj",
-      "packagesPath": "C:\\Users\\yefry.bautista\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yefry.bautista\\Documents\\ApiAplication\\ProductosApi\\Model\\obj\\",
+      "projectPath": "C:\\Users\\yefry.bautista\\Documents\\TiendaVirtual\\TiendaApi\\Model\\Model.csproj",
+      "packagesPath": "C:\\Users\\wilkin.vasquez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yefry.bautista\\Documents\\TiendaVirtual\\TiendaApi\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\yefry.bautista\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wilkin.vasquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

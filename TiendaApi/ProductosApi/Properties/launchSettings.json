@@ -4,7 +4,7 @@
     "anonymousAuthentication": true,
     "iisExpress": {
       "applicationUrl": "http://localhost:50052",
-      "sslPort": 44388
+      "sslPort": 0
     }
   },
   "$schema": "http://json.schemastore.org/launchsettings.json",
@@ -12,8 +12,9 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "api/productos",
       "environmentVariables": {
+        "Llave_Secreta": "asasdasdadadasdasdasdddddddddddasdassssssssssssssdqweqwe",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
