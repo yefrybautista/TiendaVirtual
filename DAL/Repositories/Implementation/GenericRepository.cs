@@ -1,4 +1,5 @@
 ﻿using DAL.Repositories.Interface;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,19 +17,19 @@ namespace DAL.Repositories.Implementation
             _context = context;
         }
 
-        public TEntity GetById(int id)
+        public async Task<TEntity> GetById(int id)
         {
-            return _context.Set<TEntity>().Find(id);
+            return await _context.Set<TEntity>().FindAsync(id);
         }
 
-        public IEnumerable<TEntity> GetAll()
+        public async Task<IEnumerable<TEntity>> GetAll()
         {
-            return _context.Set<TEntity>().ToList();
+            return await _context.Set<TEntity>().ToListAsync();
         }
 
-        public IEnumerable<TEntity> Find(Expression<Func<TEntity, bool>> predicate)
+        public async Task<IEnumerable<TEntity>> Find(Expression<Func<TEntity, bool>> predicate)
         {
-            return _context.Set<TEntity>().Where(predicate);
+            return await _context.Set<TEntity>().Where(predicate).ToListAsync();
         }
 
         public TEntity SingleOrDefault(Expression<Func<TEntity, bool>> predicate)
@@ -36,9 +37,9 @@ namespace DAL.Repositories.Implementation
             return _context.Set<TEntity>().SingleOrDefault(predicate);
         }
 
-        public void Add(TEntity entity)
+        public async void Add(TEntity entity)
         {
-            _context.Set<TEntity>().Add(entity);
+           await _context.Set<TEntity>().AddAsync(entity);
         }
 
         public void Remove(TEntity entity)

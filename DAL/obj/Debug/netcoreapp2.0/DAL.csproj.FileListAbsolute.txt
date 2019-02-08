@@ -1,0 +1,24 @@
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\DAL\bin\Debug\netcoreapp2.0\DAL.deps.json
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\DAL\bin\Debug\netcoreapp2.0\DAL.dll
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\DAL\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.csprojAssemblyReference.cache
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfo.cs
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CopyComplete
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.dll
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.pdb
+C:\Users\yefry.bautista\Documents\TiendaVirtual\DAL\bin\Debug\netcoreapp2.0\DAL.deps.json
+C:\Users\yefry.bautista\Documents\TiendaVirtual\DAL\bin\Debug\netcoreapp2.0\DAL.dll
+C:\Users\yefry.bautista\Documents\TiendaVirtual\DAL\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\Users\yefry.bautista\Documents\TiendaVirtual\DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yefry.bautista\Documents\TiendaVirtual\DAL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\yefry.bautista\Documents\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.csprojAssemblyReference.cache
+C:\Users\yefry.bautista\Documents\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\yefry.bautista\Documents\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\yefry.bautista\Documents\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.AssemblyInfo.cs
+C:\Users\yefry.bautista\Documents\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.csproj.CopyComplete
+C:\Users\yefry.bautista\Documents\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.dll
+C:\Users\yefry.bautista\Documents\TiendaVirtual\DAL\obj\Debug\netcoreapp2.0\DAL.pdb

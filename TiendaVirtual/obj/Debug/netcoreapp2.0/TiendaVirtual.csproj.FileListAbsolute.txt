@@ -1,0 +1,32 @@
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\TiendaVirtual.deps.json
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\TiendaVirtual.runtimeconfig.json
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\TiendaVirtual.runtimeconfig.dev.json
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\TiendaVirtual.dll
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\TiendaVirtual.pdb
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\DAL.dll
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.csprojAssemblyReference.cache
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.AssemblyInfoInputs.cache
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.AssemblyInfo.cs
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.csproj.CopyComplete
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.dll
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.pdb
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\BLL.dll
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\BLL.pdb
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\TiendaVirtual.deps.json
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\TiendaVirtual.runtimeconfig.json
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\TiendaVirtual.runtimeconfig.dev.json
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\TiendaVirtual.dll
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\TiendaVirtual.pdb
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\BLL.dll
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\DAL.dll
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\BLL.pdb
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.csprojAssemblyReference.cache
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.AssemblyInfoInputs.cache
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.AssemblyInfo.cs
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.csproj.CopyComplete
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.dll
+C:\Users\yefry.bautista\Documents\TiendaVirtual\TiendaVirtual\obj\Debug\netcoreapp2.0\TiendaVirtual.pdb

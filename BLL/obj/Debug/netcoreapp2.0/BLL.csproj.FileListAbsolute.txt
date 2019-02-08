@@ -1,0 +1,28 @@
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.csprojAssemblyReference.cache
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.AssemblyInfo.cs
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\BLL.deps.json
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\BLL.dll
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\BLL.pdb
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\DAL.dll
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.csproj.CopyComplete
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.dll
+C:\Users\yefry.bautista\Documents\proyecto yefry\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.pdb
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\BLL.deps.json
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\BLL.dll
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\BLL.pdb
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\DAL.dll
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\DAL.pdb
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.csprojAssemblyReference.cache
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.AssemblyInfo.cs
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.csproj.CopyComplete
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.dll
+C:\Users\yefry.bautista\Documents\TiendaVirtual\BLL\obj\Debug\netcoreapp2.0\BLL.pdb

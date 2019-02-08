@@ -196,6 +196,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        }
       }
     }
   },
@@ -656,10 +666,16 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "DAL >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -670,11 +686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yefry.bautista\\Documents\\proyecto yefry\\TiendaVirtual\\BLL\\BLL.csproj",
+      "projectUniqueName": "C:\\Users\\yefry.bautista\\Documents\\TiendaVirtual\\BLL\\BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "C:\\Users\\yefry.bautista\\Documents\\proyecto yefry\\TiendaVirtual\\BLL\\BLL.csproj",
+      "projectPath": "C:\\Users\\yefry.bautista\\Documents\\TiendaVirtual\\BLL\\BLL.csproj",
       "packagesPath": "C:\\Users\\yefry.bautista\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yefry.bautista\\Documents\\proyecto yefry\\TiendaVirtual\\BLL\\obj\\",
+      "outputPath": "C:\\Users\\yefry.bautista\\Documents\\TiendaVirtual\\BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -692,7 +708,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\yefry.bautista\\Documents\\TiendaVirtual\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\yefry.bautista\\Documents\\TiendaVirtual\\DAL\\DAL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

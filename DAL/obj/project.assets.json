@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yefry.bautista\\Documents\\proyecto yefry\\TiendaVirtual\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\yefry.bautista\\Documents\\TiendaVirtual\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\yefry.bautista\\Documents\\proyecto yefry\\TiendaVirtual\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\yefry.bautista\\Documents\\TiendaVirtual\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\yefry.bautista\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yefry.bautista\\Documents\\proyecto yefry\\TiendaVirtual\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\yefry.bautista\\Documents\\TiendaVirtual\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
